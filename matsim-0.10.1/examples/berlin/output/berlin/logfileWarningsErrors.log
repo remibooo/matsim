@@ -1,0 +1,4 @@
+2018-08-25 22:03:03,527  WARN QueueWithBuffer:377 Link 21879 too small: enlarge storage capacity from: 54.670731556189075 Vehicles to: 1339.518652320381 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2018-08-25 22:03:03,528  WARN QueueWithBuffer:377 Link 21880 too small: enlarge storage capacity from: 54.670731556189075 Vehicles to: 1339.518652320381 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2018-08-25 22:03:13,170 ERROR BasicPlanAgentImpl:165 last activity of person driver agent id 98410 has end time < infty; setting it to infty
+2018-08-25 22:03:13,171 ERROR BasicPlanAgentImpl:166  This message given only once.

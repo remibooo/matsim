@@ -1,0 +1,58 @@
+LICENSE AGREEMENT
+
+
+Simunto Via (visualizer and analysis tool for MATSim and spatio-temporal data)
+
+
+You are granted a non-exclusive, time-limited license to use a copy of
+the Software on one computer belonging to you. You are not allowed to
+pass the Software, the license file enabling the use of the Software, or
+a copy of the Software or the license file to anyone else, or allow
+other persons the use of the Software on your computer.
+
+WARRANTY
+The Software is provided as is, in the hope that it is useful, but
+without any warranty; without even the implied warranty of
+merchantability or fitness for a particular purpose. Simunto is not
+responsible for any damage caused by the Software.
+
+MODIFICATIONS
+You may not modify or adapt your copy of the Software or any portion of
+it. You may not reverse engineer, decompile, disassemble or otherwise
+attempt to discover the source code of the Software.
+
+COPIES
+The Software (including any images, icons, graphics, animations, etc
+incorporated into the Software) is protected by copyright laws. You may
+not make copies of the Software except for backups. You may not give
+copies of the Software to another person.
+
+PUBLICATIONS
+Pictures, screenshots, or movies of the Software can be used and published
+without restrictions. It would be appreciated if Via is given credit in
+the image description or in a separate acknowledgement section.
+
+PRIVACY NOTICE
+Every time the Software is started, it sends the key contained in the
+license file to one of Simunto's servers. This feature cannot be
+disabled in the Software and may be used by Simunto to monitor the usage
+of the licensed Software in place of other copyright protection measures
+(e.g. hardware dongles, activation of the Software and similar).
+
+APPLICABLE LAW AND JURISDICTION
+This agreement and all business and financial relations between the
+parties resulting herefrom shall be subject to Swiss law. In case of any
+dispute arising out of or in connection with this agreement, the
+competent courts of the Canton of Zurich shall have jurisdiction.
+
+If any provision of this Agreement is held by a court of competent
+jurisdiction to be contrary to law, such provision will be changed and
+interpreted so as to best accomplish the objectives of the original
+provision to the fullest extent allowed by law and the remaining
+provisions of this Agreement will remain in full force and effect.
+
+
+
+
+This software includes libraries with may be licensed under different terms.
+Please see /third_party_libraries/ for more information.
